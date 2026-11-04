@@ -1,0 +1,12 @@
+LUKI MESSECHECK - GITHUB UPLOAD
+
+1. Diese ZIP-Datei auf dem Windows-PC entpacken.
+2. GitHub Repository ahmetokan45-tech/luki-messecheck oeffnen.
+3. Add file > Upload files waehlen.
+4. Alle Dateien und den Ordner assets aus diesem Ordner hochladen (nicht die ZIP selbst).
+5. Commit changes klicken.
+6. GitHub Pages aktualisiert die Website automatisch.
+7. Auf dem iPad Safari neu laden, ggf. Website-Daten fuer die Seite loeschen.
+
+WICHTIG: Der ungeschuetzte Verwaltungsbutton ist fuer die oeffentliche Seite deaktiviert.
+Betragsangaben und betriebliche Konditionen vor Messeeinsatz fachlich freigeben.
